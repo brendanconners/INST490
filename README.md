@@ -2,3 +2,12 @@
 ## Group Members: Brendan Conners, Anthony Lopez, Javier Oyola, and Ben Lintjewas
 
 ## Overview
+For this 
+
+## Key Objectives
+
+## Methodology
+
+## Screenshots
+
+## Examples
