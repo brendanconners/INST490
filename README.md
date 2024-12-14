@@ -9,7 +9,11 @@ After getting our requirements, we found that we also needed to clean the data f
 ## Key Objectives
 
 ## Methodology
+To meet project goals, we followed a strict schedule, starting each week by outlining tasks, such as working on sprints, updating our Jira board, and meeting with the client. When we faced delays due to missing data, we brainstormed alternatives, including searching for public data and exploring a new police dashboard. The City of New Carrollton emphasized transparency, prompting us to focus on data visualization.
 
+Anthony and Javier, with expertise in Tableau, took the lead on the dashboard. Our task was to create a dashboard for multiple city departments, but after two weeks of waiting for the promised data, communication issues stalled progress. Eventually, the Mayor provided updated police data, leading us to adjust our scope to focus on police data.
+
+We then cleaned the data using OpenRefine to address null values, misspelled streets, and incomplete reports. After months of delays, we secured a meeting in late November where we received the remaining data, excluding financial data, which we later obtained. During the meeting, we also discussed the need for a User Documentation Manual to enable future updates and visualizations without student involvement. Ultimately, we delivered a functional dashboard that met the City's goal of transparency and user accessibility.
 ## Screenshots
 
 ## Examples
